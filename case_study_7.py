@@ -1,4 +1,4 @@
-# Case Study 7 - No.33 Attendance Reward System
+
 attendance = [1, 1, 1, 0, 1, 1, 1, 1, 0, 1]
 
 present = 0
