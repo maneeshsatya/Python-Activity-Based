@@ -1,15 +1,14 @@
-# Python-Activity-Based-Learning
+ Python-Activity-Based-Learning
 
-## Student Details
 - **Name:** Maneesh Satya
 - **GitHub:** maneeshsatya
 - **Subject:** Python Programming ABL
 - **College:** Dr. RVR
 
-## Description
+
 Repository for 10 Python case studies using only syllabus concepts: loops, strings, lists, tuples.
 
-## Selected 10 Case Studies
+
 1. 13. ATM Transaction Sequence Simulation
 2. 27. Advanced Numeric Pattern Generator
 3. 28. Repeated Transaction Detection
@@ -21,6 +20,5 @@ Repository for 10 Python case studies using only syllabus concepts: loops, strin
 9. 42. Student Marks Matrix Analysis
 10. 48. Tuple-Based Employee Shift Conflict Detection
 
-## Structure
 - case_study_1.py to case_study_10.py
 - Consolidated_Report.pdf
