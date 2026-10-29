@@ -1,4 +1,3 @@
-# Case Study 10 - No.36 Student Result Grading System
 marks = [78, 85, 90, 66, 82]
 print(f"Subject Marks: {marks}")
 
