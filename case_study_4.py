@@ -1,6 +1,4 @@
-# Case Study 4 - No.29 Password Policy Validation
 password = "Maneesh@123"
-
 has_upper = False
 has_lower = False
 has_digit = False
