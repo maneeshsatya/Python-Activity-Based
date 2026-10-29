@@ -1,4 +1,3 @@
-# Case Study 8 - No.34 Shopping Cart Total / E-commerce
 cart = [299, 499, 150, 999]
 print(f"Cart items prices: {cart}")
 
