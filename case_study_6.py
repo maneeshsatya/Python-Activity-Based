@@ -1,4 +1,3 @@
-# Case Study 6 - No.32 Character Count / Word Count
 text = "Python Activity Based Learning"
 print(f"Text: {text}")
 
