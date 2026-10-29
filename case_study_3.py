@@ -1,4 +1,3 @@
-# Case Study 3 - No.28 Repeated Transaction Detection
 transactions = [101, 102, 101, 103, 104, 102, 101]
 print("Checking repeated transactions...")
 
